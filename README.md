@@ -1,6 +1,6 @@
 # electron-test
 
-Electron, Express, MongoDB
+Electron
 
 ## Project setup
 ```
